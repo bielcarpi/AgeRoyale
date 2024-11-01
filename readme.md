@@ -40,7 +40,7 @@
 ## How To Use
 ```bash
 # Clone this repository
-$ git clone https://github.com/hexstorm9/AgeRoyale/tree/develop.git
+$ git clone https://github.com/bielcarpi/war-royale.git
 
 # Set up a MySQL database with the script in resources/sql
 # Adjust the database connection settings in resources/config.json
